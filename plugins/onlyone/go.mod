@@ -1,4 +1,4 @@
-module github.com/coredns/learning-coredns/plugins/onlyone
+module github.com/zouyee/learning-coredns/plugins/onlyone
 
 go 1.13
 
