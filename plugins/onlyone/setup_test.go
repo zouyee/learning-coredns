@@ -3,8 +3,7 @@ package onlyone
 import (
 	"testing"
 
-	"github.com/mholt/caddy"
-
+	"github.com/caddyserver/caddy"
 	"github.com/miekg/dns"
 )
 
